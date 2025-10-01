@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Laptop",
+    "description": "15-inch laptop with standard features",
+    "stock_quantity": 12,
+    "low_stock_threshold": 3
+  },
+  {
+    "name": "Smartphone",
+    "description": "Basic smartphone with touchscreen",
+    "stock_quantity": 25,
+    "low_stock_threshold": 5
+  },
+  {
+    "name": "Tablet",
+    "description": "Portable tablet device",
+    "stock_quantity": 18,
+    "low_stock_threshold": 4
+  },
+  {
+    "name": "Wireless Mouse",
+    "description": "Compact wireless mouse",
+    "stock_quantity": 40,
+    "low_stock_threshold": 8
+  },
+  {
+    "name": "Keyboard",
+    "description": "Standard wired keyboard",
+    "stock_quantity": 35,
+    "low_stock_threshold": 7
+  },
+  {
+    "name": "Monitor",
+    "description": "24-inch LED monitor",
+    "stock_quantity": 20,
+    "low_stock_threshold": 5
+  },
+  {
+    "name": "Headphones",
+    "description": "Over-ear wired headphones",
+    "stock_quantity": 30,
+    "low_stock_threshold": 6
+  },
+  {
+    "name": "Earphones",
+    "description": "In-ear wired earphones",
+    "stock_quantity": 45,
+    "low_stock_threshold": 10
+  },
+  {
+    "name": "Smartwatch",
+    "description": "Basic fitness smartwatch",
+    "stock_quantity": 22,
+    "low_stock_threshold": 5
+  },
+  {
+    "name": "External Hard Drive",
+    "description": "1TB portable hard drive",
+    "stock_quantity": 15,
+    "low_stock_threshold": 4
+  },
+  {
+    "name": "USB Flash Drive",
+    "description": "32GB USB drive",
+    "stock_quantity": 50,
+    "low_stock_threshold": 10
+  },
+  {
+    "name": "Webcam",
+    "description": "HD webcam for video calls",
+    "stock_quantity": 17,
+    "low_stock_threshold": 4
+  },
+  {
+    "name": "Printer",
+    "description": "All-in-one inkjet printer",
+    "stock_quantity": 10,
+    "low_stock_threshold": 2
+  },
+  {
+    "name": "Router",
+    "description": "Wireless internet router",
+    "stock_quantity": 14,
+    "low_stock_threshold": 3
+  },
+  {
+    "name": "Speakers",
+    "description": "Pair of desktop speakers",
+    "stock_quantity": 19,
+    "low_stock_threshold": 4
+  },
+  {
+    "name": "Projector",
+    "description": "Compact home projector",
+    "stock_quantity": 7,
+    "low_stock_threshold": 2
+  }
+]
